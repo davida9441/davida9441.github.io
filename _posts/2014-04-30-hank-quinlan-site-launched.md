@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "David Agudo's blog"
-date: 2018-9-28
+date: 2018-9-28, weekly reflection
 ---
 
 I feel good about this class because we are learning more about coding. This year we are learning more advanced coding. I also feel like it is difficult and that coding is delicate because machines can take things literally. I feel overall that this class is going to get harder as the year goes by. It is easy too because the teacher makes us do things step by step and it makes work a lot easier. 
