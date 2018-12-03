@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Reflection"
-date: 2018-26-10
+date: 2018-10-26
 ---
 
 This week in AP CSP, we began with an intro to data science. We learned about header, and data rows.We did answered questions by choosing either categorical, which means "which one?", or quantitative, which means "how many?". After that we did Accessing Values from Tables. For example, we did shapes = table: name, corners
