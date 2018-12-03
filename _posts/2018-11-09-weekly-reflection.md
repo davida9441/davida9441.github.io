@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Reflection"
-date: 2018-09-11
+date: 2018-11-09
 ---
 
 This week in AP CSP, we started with an Intro to Structures. We learned about DeliveryState, which names a new type. delivery names a function that creates delivery states. A point is two #'s held together. Then, we used examples to solve problems. For example, is a birthday-cake taller than a red-velvet cake?
