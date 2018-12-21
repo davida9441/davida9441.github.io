@@ -9,12 +9,10 @@ date: 2018-12-21
 ## Describe your program
 
 -  The country I designed for is Greece
--   I expect a 3 because i haven't completely finished my flag yet. I am almost done though.
+-   I expect a 2 or a 3 because i haven't completely finished my flag yet. I am almost done though. The teacher has also helped me. 
 
 
 ## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
 
 
 * * *
@@ -23,33 +21,33 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+I asked questions to the teacher while doing this project. The teacher has helped me with questions such as "how do i make stripes?". The teacher has really helped me because he showed me what to put in my code and the code worked. Some of the challenges I faced were how to code the stripes. It was really hard to figure out what numbers to put. I overcame this challenge by asking the teacher for help, and he did help me. 
 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+base1 = place-image(stripe, width / 2, 7.5 * stripe-height, base)
+
+base2 = place-image(stripe, width / 2, 5.5 * stripe-height, base1)
+
+base3 = place-image(stripe, width / 1.2, 3.5 * stripe-height, base2)
+
+base4 = place-image(stripe, width / 1.2, 1.5 * stripe-height, base3)
+
 ```
 
 * * *
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
+
  
-<!--- Delete this comment and add your writing -->
+The base means the line. Place-image means to put the image that was defined. stripe means a long narrow band or strip, typically of the same width throughout its length, differing in color or texture from the surface on either side of it. width means the measurement or extent of something from side to side. the numbers mean how wide or tall i want the stripe to be. then stripe-height means the heignt of the stripe, how tall it is. base1, base2, base3 means that I am putting the previous code into the next one so there will be more stripes in the flag.  
 
 
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+https://code.pyret.org/editor#program=1x2nOx2hD8yBf-e9nVQtG-wlFpv511zmy
 ```
